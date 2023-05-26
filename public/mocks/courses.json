@@ -1,0 +1,57 @@
+{
+  "courses": [
+    {
+      "courseName": "Fancy Products",
+      "courseImage": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "isForSale": true,
+      "actualPrice": 300,
+      "discountPrice": 250
+    },
+    {
+      "courseName": "Special Items",
+      "courseImage": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "isForSale": true,
+      "actualPrice": 400,
+      "discountPrice": 350
+    },
+    {
+      "courseName": "Sale Items",
+      "courseImage": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "isForSale": false,
+      "actualPrice": 250,
+      "discountPrice": 220
+    },
+    {
+      "courseName": "Popular Items",
+      "courseImage": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "isForSale": false,
+      "actualPrice": 450
+    },
+    {
+      "courseName": "Sale Item",
+      "courseImage": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "isForSale": true,
+      "actualPrice": 400,
+      "discountPrice": 350
+    },
+    {
+      "courseName": "Fancy Product",
+      "courseImage": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "isForSale": false,
+      "actualPrice": 450
+    },
+    {
+      "courseName": "Special Item",
+      "courseImage": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "isForSale": true,
+      "actualPrice": 400,
+      "discountPrice": 350
+    },
+    {
+      "courseName": "Popular Item",
+      "courseImage": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "isForSale": false,
+      "actualPrice": 450
+    }
+  ]
+}
